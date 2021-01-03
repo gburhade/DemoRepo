@@ -1,1 +1,1 @@
-This is test 2 file
+echo "this is test2 file"
